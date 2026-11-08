@@ -1,0 +1,11 @@
+torch>=2.4
+einops
+omegaconf
+addict
+safetensors
+huggingface_hub
+numpy
+opencv-python-headless
+pillow
+onnx
+nvidia-modelopt[onnx]

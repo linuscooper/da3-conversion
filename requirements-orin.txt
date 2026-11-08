@@ -1,0 +1,5 @@
+cuda-python>=13,<14
+numpy
+opencv-python-headless
+h5py
+scipy
